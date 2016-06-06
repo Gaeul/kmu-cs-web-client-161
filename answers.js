@@ -5,7 +5,7 @@ function answer_1() {
 
 <!--2번-->
 function answer_2(){
-   document.getElementById("q2-answer").innerHTML = "<ol><li>It can represent HTML file as an object so that Javascript can easily access</li><li>It is represented in a tree structure where the <html> tag is the root</li></ol>";
+   document.getElementById("q2-answer").innerHTML = "<ol><li>It can change HTML(Elements, Attributes, CSS style) by accessing DOM</li><li>It can react to events happening(such as button click) in a page.</li></ol>";
 }
 <!--3번-->
 t=document.getElementsByClassName("q34-answer");
